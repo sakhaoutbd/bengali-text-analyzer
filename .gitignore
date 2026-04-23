@@ -49,3 +49,6 @@ bnlp_models/
 
 # Logs
 *.log
+
+# Day wise handoff
+_handoff/
